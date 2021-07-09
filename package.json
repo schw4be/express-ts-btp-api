@@ -1,0 +1,14 @@
+{
+  "name": "express-ts-btp-api",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "https://github.com/schw4be/express-ts-btp-api"
+  },  
+  "keywords": [],
+  "author": "Markus Klein",
+  "license": "ISC"
+}
