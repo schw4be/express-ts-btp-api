@@ -1,0 +1,16 @@
+{
+    "uaa": {
+      "apiurl": "https://api.authentication.eu10.hana.ondemand.com",
+      "clientid": "sb-abstpemat-fs!t62837",
+      "clientsecret": "AuUI7+pSgpHkwtLcgaSSDNnIsBE=",
+      "identityzone": "x02",
+      "identityzoneid": "74be825a-9c9a-4cdf-9e6f-2d32c4f69969",
+      "sburl": "https://internal-xsuaa.authentication.eu10.hana.ondemand.com",
+      "tenantid": "74be825a-9c9a-4cdf-9e6f-2d32c4f69969",
+      "tenantmode": "dedicated",
+      "uaadomain": "authentication.eu10.hana.ondemand.com",
+      "url": "https://x02.authentication.eu10.hana.ondemand.com",
+      "verificationkey": "-----BEGIN PUBLIC KEY-----MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzNqeScfJvzhjAeBbYWBekOuZh7FR1tbkM0Z4zsrm4V1NcSRtZcO89lAmdyNvcWE7+LMG9MyJlzn1cZja92HoDzu+deMPr1Zqcn6lhCyzK6S27RAajiOQ56sxxhzIk98y7VKpltr62I47Dwxtvtmh1WZ1LrcRakY09kX87jVgW+zP6KCGMlwa1BJW1Xirn7kBO//IspwtV0kxCzlQ1zycKJwrHn9h2Gop+Y/6ElegBnCj2TIPP1F+pkzho5GccSp0xT4PGj5E1Gl2CeN2iaTb64WzvduOJT5lJWQiDBjFXoIAbEvrEhEQODlq92nYl/b39xsjgRdVUEdsQ0WVgHs+KwIDAQAB-----END PUBLIC KEY-----",
+      "xsappname": "abstpemat-fs!t62837"
+    }
+  }
