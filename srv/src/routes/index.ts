@@ -9,7 +9,7 @@ router.use(authRouter);
 
 router.get("/", (req, res) => {
     res.json({
-        message: "🦄🌈✨👋🌎🌍🌏✨🌈🦄",
+        message: "👋🦄🌎✨",
     });
 });
 

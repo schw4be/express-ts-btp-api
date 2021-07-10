@@ -1,16 +1,16 @@
 {
     "uaa": {
       "apiurl": "https://api.authentication.eu10.hana.ondemand.com",
-      "clientid": "sb-abstpemat-fs!t62837",
-      "clientsecret": "AuUI7+pSgpHkwtLcgaSSDNnIsBE=",
-      "identityzone": "x02",
-      "identityzoneid": "74be825a-9c9a-4cdf-9e6f-2d32c4f69969",
+      "clientid": "sb-express-ts-btp-api!t75929",
+      "clientsecret": "sYrFHUO82JAxIlP0CCE+qCj1zRs=",
+      "identityzone": "e1ca60cctrial",
+      "identityzoneid": "7fac2aa7-30c3-41a9-8a37-f67f9f62737b",
       "sburl": "https://internal-xsuaa.authentication.eu10.hana.ondemand.com",
-      "tenantid": "74be825a-9c9a-4cdf-9e6f-2d32c4f69969",
+      "tenantid": "7fac2aa7-30c3-41a9-8a37-f67f9f62737b",
       "tenantmode": "dedicated",
       "uaadomain": "authentication.eu10.hana.ondemand.com",
-      "url": "https://x02.authentication.eu10.hana.ondemand.com",
-      "verificationkey": "-----BEGIN PUBLIC KEY-----MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzNqeScfJvzhjAeBbYWBekOuZh7FR1tbkM0Z4zsrm4V1NcSRtZcO89lAmdyNvcWE7+LMG9MyJlzn1cZja92HoDzu+deMPr1Zqcn6lhCyzK6S27RAajiOQ56sxxhzIk98y7VKpltr62I47Dwxtvtmh1WZ1LrcRakY09kX87jVgW+zP6KCGMlwa1BJW1Xirn7kBO//IspwtV0kxCzlQ1zycKJwrHn9h2Gop+Y/6ElegBnCj2TIPP1F+pkzho5GccSp0xT4PGj5E1Gl2CeN2iaTb64WzvduOJT5lJWQiDBjFXoIAbEvrEhEQODlq92nYl/b39xsjgRdVUEdsQ0WVgHs+KwIDAQAB-----END PUBLIC KEY-----",
-      "xsappname": "abstpemat-fs!t62837"
+      "url": "https://e1ca60cctrial.authentication.eu10.hana.ondemand.com",
+      "verificationkey": "----BEGIN PUBLIC KEY-----MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5/AHodnTbTIqA2jjHkaWVVDJCqb0Ce4j73I7npMg2PgCYKuqBzg4302eDz/cEhuPDGuLC9k4zf0wVmvvMrSvHCxQsZ3YgHCaFSd86biFMxp8nmoRRi/ni++qMHevYbxRCbNEw+5PQJwq73pWSKdhGxqUzc446PRXsZDzJJltVf4gQ1uD8wCqeyMVf/cCO8kWm/0JqgvoFiOyMGtMIl+vmcd8A5QcrByzvbUj8vl/+sZHOpBhJ7lfApjSoZ9WSMavgMap0wSk7AKfjX/vJNzZXv8sY/CQN1eyCLTrNc9KAQpMPwg5hTWuH3RvGORvFTuxaxhjc7cLVSSND0w44BLpSwIDAQAB-----END PUBLIC KEY-----",
+      "xsappname": "express-ts-btp-api!t75929"
     }
   }
